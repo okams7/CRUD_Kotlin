@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crud</string>
+<!--    <string name="main_screen">Main Screen</string>-->
+<!--    <string name="get_data_screen">get_data_screen</string>-->
+<!--    <string name="get_all_users_screen">get_all_users_screen</string>-->
+<!--    <string name="add_data_screen">add_data_screen</string>-->
+    <string name="back_button">Back</string>
+</resources>

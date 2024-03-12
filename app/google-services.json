@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562913699743",
+    "project_id": "crud-eb90e",
+    "storage_bucket": "crud-eb90e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562913699743:android:f39600f3ea1026a8b1ffaa",
+        "android_client_info": {
+          "package_name": "com.voidbit.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAwUVetvMVAIKAl_gz4i2QIdQpbv7ZLRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
